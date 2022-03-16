@@ -32,8 +32,8 @@ Double click on Hello.html file
 👤 **Author1**
 
 - GitHub: [@camilevahviraki](https://github.com/camilevahviraki)
-- Twitter: [@camilevahviraki](https://twitter.com/camilevahviraki)
-- LinkedIn: [camilevahviraki](https://linkedin.com/in/camilevahviraki)
+- Twitter: [@camilevahviraki](https://twitter.com/CamileVahviraki)
+- LinkedIn: [camilevahviraki](https://www.linkedin.com/in/camile-vahviraki-8180a6232/)
 
 
 
